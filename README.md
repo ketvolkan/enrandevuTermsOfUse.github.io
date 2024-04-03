@@ -1,4 +1,4 @@
-HİZMET SÖZLEŞMESİ(TERMS OF USE)
+# HİZMET SÖZLEŞMESİ (TERMS OF USE)
 1. TARAFLAR VE TANIMLAR
 1.a. Bu sözleşme 24.01.2015 tarihli ve 29246 sayılı Resmi Gazete'de yayımlanarak yürürlüğe giren "Abonelik Sözleşmeleri Yönetmeliği" esas alınarak
 hazırlanmıştır. Salon Randevu ile müşteri arasında, tarafların hür iradeleriyle incelenip onaylanarak aşağıda belirtilen şartlarda imza altına alınmıştır.
